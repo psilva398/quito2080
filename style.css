@@ -1,0 +1,137 @@
+@charset "UTF-8";
+ 
+body,html {
+  width:
+  }
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+	
+
+.encabezado{
+	background-image: url("Imagenes/WorkB&W-05.png");
+    background-position: top;
+	height:45px;
+	weight:100%
+	position:fixed;
+	z-index:1;
+
+}
+
+.logo{
+	margin-top: 3px;
+}
+
+.decision{
+	text-align: right;
+	color: white;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.inicio{
+	align-content: center;
+}
+
+.quito{
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 100px;
+	height:100px;
+}
+
+.inicio2{
+	align-content:center;
+	margin-top:0px;
+}
+
+.quito2{
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 70px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.puntitos{
+
+	align-content:right;
+}
+.LoveHate{
+	align-content:center;
+}
+.background{
+	background-color:black;
+}
+.love {
+	align-content:center;
+	margin-top:40px;
+	
+}
+
+.love1{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 70px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.believe{
+	color:white;
+	font-weight: bold;
+	font-size: 90px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-left:30px;
+}
+.paralax{
+	width: 100%;
+	height: 220px;
+	background-image:url(Imagenes/Inicio.jpg);
+	overflow: hidden; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	z-index:1;
+}
+	
+
+.jumbotron{
+	background-color:black;
+	size:50px;	
+}
+#hate{
+	font-size:100px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	color:#D33A11;
+}
+
+.hate{
+	align-content:center;
+	
+}
+.no{
+	background-color:white;
+	margin-top:0px;
+	
+}
+.hate2 {
+	text-align:center
+	color: black;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:25px;
+}
+
+.list {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:20px;
+	color:black;
+}
+
+.homeless{
+	margin-top:30px;
+}
